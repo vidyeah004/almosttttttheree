@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of Sales Propensity Predictor",
+  "description": "An intelligent tool to predict sales opportunity outcomes. Enter the details of a sales opportunity, and the AI model will forecast the propensity of winning the deal, providing a score and a clear win/loss prediction.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
